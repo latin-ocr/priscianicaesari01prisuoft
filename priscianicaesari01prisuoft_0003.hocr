@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./priscianicaesari01prisuoft/priscianicaesari01prisuoft_0003.png"; bbox 0 0 1858 3210; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1572 3000 1626 3020">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1572 3000 1626 3020">
+     <span class='ocr_line' id='line_1_1' title="bbox 1572 3000 1593 3020; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 1572 3000 1593 3020; x_wconf 67' lang='lat' dir='ltr'><em>C</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1616 3004 1626 3018; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 1616 3004 1626 3018; x_wconf 78' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1581 2900 1693 3090">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1581 2900 1693 3090">
+     <span class='ocr_line' id='line_1_3' title="bbox 1581 2900 1620 3090; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 1581 3085 1592 3090; x_wconf 59' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1592 2967 1606 2990; x_wconf 78' lang='grc'><strong><em>(</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1610 2944 1620 2954; x_wconf 64' lang='lat' dir='ltr'><strong>C</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1603 2900 1610 2907; x_wconf 65' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1623 2962 1693 3032; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 1623 2962 1693 3032; x_wconf 63' lang='lat' dir='ltr'>(m</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1593 2534 1736 2960">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1593 2534 1736 2960">
+     <span class='ocr_line' id='line_1_5' title="bbox 1614 2708 1636 2932; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 1620 2920 1635 2932; x_wconf 66' lang='lat' dir='ltr'><em>c</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1614 2834 1630 2843; x_wconf 68' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1628 2735 1636 2745; x_wconf 72' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_11' title='bbox 1621 2708 1627 2723; x_wconf 90' lang='lat'>...</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1593 2534 1736 2960; textangle 180"><span class='ocrx_word' id='word_1_12' title='bbox 1630 2708 1736 2960; x_wconf 43' lang='lat' dir='ltr'>‹Zau-ammom«</span> <span class='ocrx_word' id='word_1_13' title='bbox 1593 2534 1721 2700; x_wconf 28' lang='lat' dir='ltr'>‹ms-...wag</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1858 3210">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1858 3210">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1858 3210; textangle 180"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1858 3210; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
